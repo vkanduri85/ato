@@ -1,4 +1,4 @@
-# Austrlain open
+# Australian Open.
 This is a tutorial to learn Git & Github
 
 1. git commit 
